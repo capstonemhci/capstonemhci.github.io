@@ -23,8 +23,20 @@ img {
 
 h2,
 h3 {
-  margin-left: 35%;
-  margin-right: 35%;
+  /* margin-left: 35%;
+  margin-right: 35%; */
   color: white;
   font-family: lato;
+}
+
+.text-container {
+  margin: 20px 20px 20px 20px;
+}
+
+.text-background {
+  max-width: 30%;
+  height: auto;
+  background-color: blue;
+  margin-left: 35%;
+  margin-right: 35%;
 }
